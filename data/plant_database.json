@@ -1,0 +1,7 @@
+[
+  { "name": "Persea americana", "min_temperature": 0 },
+  { "name": "Monstera deliciosa", "min_temperature": 14 },
+  { "name": "Chlorophytum comosum", "min_temperature": 13 },
+  { "name": "Peperomia polybotrya", "min_temperature": 10 },
+  { "name": "Mother of thousands", "min_temperature": 5 }
+]
