@@ -3,7 +3,7 @@ from __future__ import annotations
 import json
 from typing import List, Dict
 from pathlib import Path
-from models.Plant import Plant
+from models.plant import Plant
 
 
 class PlantRepository:

@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 from typing import List, Optional
-from models.Plant import Plant
+from models.plant import Plant
 
 
 class SafetyEvaluator:
